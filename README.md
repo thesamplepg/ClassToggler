@@ -1,8 +1,8 @@
-#Class Toggler
+# Class Toggler
 
 A javascript library that adds a class to the DOM element when the scroll comes to it.
 
-##Installation
+## Installation
 
 - You can donwload or copy this repo and retrive library from dest folder.
 
@@ -12,7 +12,7 @@ A javascript library that adds a class to the DOM element when the scroll comes 
 
 - Or just put this line of code in the bottom of your HTML.
 
-##Usage
+## Usage
 
 - Add "data-toggler" attribute to the DOM.
 
