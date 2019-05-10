@@ -17,13 +17,13 @@ A javascript library that adds a class to the DOM element when the scroll comes 
 - Add "data-toggler" attribute to the DOM.
 
 ```html
-    <div data-toggler="fadIn"></div>
+    <div data-toggler="fadeIn"></div>
 ```
 
 - The result when scroll comes to it.
 
 ```html
-    <div class="fadeIn" data-toggler="fadIn"><div>
+    <div class="fadeIn" data-toggler="fadeIn"><div>
 ```
 - You can add some delay.
 ```html
